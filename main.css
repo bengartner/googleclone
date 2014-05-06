@@ -110,11 +110,16 @@ a:hover {
 
 .button-signin {
   border-radius: 2px;
-  padding: 6px 14px;
+  padding: 7px 14px;
   background-color: #4486FA;
   color: white;
   margin-right: 65px;
 }
+
+.button-signin:hover {
+  box-shadow: 0 1px 0 0 #4285F4;
+}
+
 
 .container-content {
   position: relative;
